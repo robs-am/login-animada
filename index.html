@@ -5,26 +5,45 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Mukta:wght@400;700&display=swap" rel="stylesheet">
+
+
     <title>Login</title>
 </head>
 
 <body>
-    <div class="main-login"></div>
-    <div class="left-login">
-        <h1>Welcome!</h1>
+    <div class="main-login">
+        <div class="left-login">
+            <h1>Welcome!</h1>
+            <img src="img/conectada.svg" class="left-login-image" alt="Imagem de uma mulher conectada">
+        </div>
         <div class="right-login">
             <div class="card-login">
+                <h1>LOGIN</h1>
+                <div class="social-media">
+                    <a href="#"><img src="img/google.svg" alt="Google" class="redesocial"></a>
+                    <a href="#"><img src="img/facebook.svg" alt="Facebook" class="redesocial"></a>
+                    <a href="#"><img src="img/linkedin.svg" alt="Linkedin" class="redesocial"></a>
+                </div>
+                <span class="OR">OR</span>
                 <div class="textfield">
                     <label for="usuario">Username:</label>
                     <input type="text" name="usuario" placeholder="Username">
                 </div>
                 <div class="textfield">
-                    <label for="senha">Password</label>
+                    <label for="senha">Password:</label>
                     <input type="password" name="senha" placeholder="Password">
                 </div>
-            </div>
 
+
+                <button class="btn-login">Login</button>
+            </div>
         </div>
+
+    </div>
 
     </div>
 </body>
