@@ -65,7 +65,7 @@ body * {
 .card-login > h1 {
     color: #4b298eaf;
     font-weight: 800;
-    margin: 0;
+    margin-bottom: 3%;
 }
 
 .textfield {
@@ -87,7 +87,7 @@ body * {
     background: #77aca2;
     box-shadow: 0px 10px 25px #3e3d3d56;
     color:#f0ffffde;
-    font-size: 12pt;
+    font-size: 10pt;
     outline: none;
     box-sizing: border-box;
 
@@ -95,11 +95,11 @@ body * {
 
 .textfield > label {
     color: #f0ffffde;
-    margin-bottom: 10px;
+    margin-bottom: px;
 }
 
 .socialmedia {
-    margin-bottom: 8em;
+    margin-bottom: 8rem;
 }
 
 .redesocial {
@@ -138,7 +138,8 @@ body * {
     width: 100%;
     padding: 1rem;
 
-    margin: 1rem;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
 
     border: none;
     border-radius: 8px;
@@ -191,10 +192,13 @@ body * {
 
     .left-login-image {
         width: 60vw;
+        margin-top: 10%;
     }
 
     .card-login {
-        width: 90%;
+        width: 70%;
+        height: 90%;
+        margin-top: none;
     }
 
 
