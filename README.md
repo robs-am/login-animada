@@ -4,8 +4,8 @@
 <p align="center">O Objetivo desse projeto é estruturar uma Login Page e avançar os estudos em posicionamento em CSS3 com Flexbox e responsividade</p>
 
 
+![login_animada_video_editado](https://user-images.githubusercontent.com/102549776/162853226-7fefd054-8728-4afb-ab7b-879af3072db7.gif)
 
-https://user-images.githubusercontent.com/102549776/162584953-b1cd182f-2f23-416b-ae54-2e86b39b3bf0.mp4
 
 
 <h1 align="center">Mock-ups</h1>
