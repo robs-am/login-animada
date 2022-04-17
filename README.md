@@ -3,7 +3,7 @@
 <h1 align="center">Login Page</h1>
 <p align="center">O Objetivo desse projeto é estruturar uma Login Page e avançar os estudos em posicionamento em CSS3 com Flexbox e responsividade</p>
  
- <p> align="center">https://robs-am.github.io/login-animada/</p>
+ <p align="center">https://robs-am.github.io/login-animada/</p>
 
 
 ![login_animada_video_editado](https://user-images.githubusercontent.com/102549776/162853226-7fefd054-8728-4afb-ab7b-879af3072db7.gif)
